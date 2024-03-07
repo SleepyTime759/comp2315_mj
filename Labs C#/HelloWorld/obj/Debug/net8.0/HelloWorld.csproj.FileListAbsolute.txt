@@ -1,0 +1,15 @@
+C:\Users\sebit\OneDrive\Documents\comp 2315\Labs C#\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+C:\Users\sebit\OneDrive\Documents\comp 2315\Labs C#\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+C:\Users\sebit\OneDrive\Documents\comp 2315\Labs C#\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\Users\sebit\OneDrive\Documents\comp 2315\Labs C#\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+C:\Users\sebit\OneDrive\Documents\comp 2315\Labs C#\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+C:\Users\sebit\OneDrive\Documents\comp 2315\Labs C#\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebit\OneDrive\Documents\comp 2315\Labs C#\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\sebit\OneDrive\Documents\comp 2315\Labs C#\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+C:\Users\sebit\OneDrive\Documents\comp 2315\Labs C#\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\sebit\OneDrive\Documents\comp 2315\Labs C#\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+C:\Users\sebit\OneDrive\Documents\comp 2315\Labs C#\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+C:\Users\sebit\OneDrive\Documents\comp 2315\Labs C#\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+C:\Users\sebit\OneDrive\Documents\comp 2315\Labs C#\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+C:\Users\sebit\OneDrive\Documents\comp 2315\Labs C#\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\Users\sebit\OneDrive\Documents\comp 2315\Labs C#\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
